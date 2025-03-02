@@ -22,12 +22,10 @@
 main:
  # - title: "bla"
  #   url: /bla/
-  - title: "Gîte 4 personnes"
-    url: /gite1/
-  - title: "Gîte 5 personnes"
-    url: /gite2/
-  - title: "Accès"
-    url: /map/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog/News"
+    url: /blog/
   - title: "Contact"
     url: /contact/
   # - title: "blog"
@@ -40,11 +38,11 @@ main:
   #  url: /shop/
 
 
-gite1:
-  - title: Tarifs
-    url: /gite1/tarifs/
-  - title: Disponibilités
-    url: /gite1/dispo/
+projects:
+  - title: E-Sax
+    url: /projects/esax/
+  - title: Boelgene
+    url: /projects/boelgene/
 
 gite2:
   - title: Tarifs
