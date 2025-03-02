@@ -5,8 +5,9 @@
 title: TES
 layout: single
 sidebar:
-  nav:
-    - projects
+  - title: "Test"
+    url: /bla/
+  
 
 
 ---
