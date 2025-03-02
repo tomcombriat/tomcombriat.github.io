@@ -1,12 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: TES
+title: Gîte 5 personnes
 layout: single
+classes: wide
+theme: dark
 sidebar:
   nav:
-    - projects
+    - gite2
+header:
+  overlay_image: /img_gite1/img_11.jpg
+
 
 
 ---

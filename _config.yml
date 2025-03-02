@@ -20,8 +20,8 @@
 
 title: TES
 email: tomcombriat@live.fr
-# description: 
-# baseurl: "" # the subpath of your site, e.g. /blog
+description: Nothing here 
+baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://gitesaintvalery.fr" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -31,6 +31,7 @@ remote_theme:             "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
 
 
 # Exclude from processing.
