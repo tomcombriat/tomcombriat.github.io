@@ -3,11 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: TES
-layout: single
-classes: wide
+layout: default
+
 
 
 
 ---
 
 Test
+
+
+## Test 
+
+### Test
