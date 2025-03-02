@@ -7,7 +7,7 @@ layout: single
 classes: wide
 sidebar:
   nav:
-    - gite2
+    - projects
 
 
 ---
