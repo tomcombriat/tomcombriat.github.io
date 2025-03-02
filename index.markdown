@@ -5,8 +5,11 @@
 title: TES
 layout: single
 sidebar:
-  nav:
-    - projects
+
+  - title: Tarifs
+    url: /gite2/tarifs/
+  - title: Disponibilités
+    url: /gite2/dispo/
   
 
 
