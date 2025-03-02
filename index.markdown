@@ -5,6 +5,8 @@
 title: TES
 layout: single
 classes: wide
+theme: mint
+skin: mint
 sidebar:
   nav:
     - docs1
