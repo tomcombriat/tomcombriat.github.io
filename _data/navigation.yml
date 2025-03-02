@@ -38,11 +38,11 @@ main:
   #  url: /shop/
 
 
-projects:
-  - title: E-Sax
-    url: /projects/esax/
-  - title: Boelgene
-    url: /projects/boelgene/
+# projects:
+#   - title: E-Sax
+#     url: /projects/esax/
+#   - title: Boelgene
+#     url: /projects/boelgene/
 
 gite2:
   - title: Tarifs
