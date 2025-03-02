@@ -3,11 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: TES
-layout: default
+layout: single
 
-sidebar:
-  nav:
-    - docs1
 
 
 ---
