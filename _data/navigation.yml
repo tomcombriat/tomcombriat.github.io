@@ -24,10 +24,7 @@ main:
  #   url: /bla/
   - title: "Projects"
     url: /projects/
-  - title: "Blog/News"
-    url: /blog/
-  - title: "Contact"
-    url: /contact/
+
   # - title: "blog"
   #  url: /blog/
   # - title: "api"
@@ -39,9 +36,9 @@ main:
 
 
 projects:
-  - title: "E-Sax"
+  - title: E-Sax
     url: /projects/esax/
-  - title: "Boelgene"
+  - title: Boelgene
     url: /projects/boelgene/
 
 gite2:
