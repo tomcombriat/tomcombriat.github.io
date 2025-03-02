@@ -4,7 +4,7 @@ layout: single
 classes: wide
 sidebar:
   nav:
-    - gite1
+    - docs1
 ---
 
 Test

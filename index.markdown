@@ -4,7 +4,9 @@
 
 title: TES
 layout: single
-
+sidebar:
+  nav:
+    - projects
 
 
 ---
