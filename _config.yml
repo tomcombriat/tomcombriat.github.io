@@ -33,7 +33,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # plugins:
 #   - jekyll-include-cache
 #   - jekyll-feed
-
+atom_feed:
+  hide: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
