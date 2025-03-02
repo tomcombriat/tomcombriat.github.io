@@ -20,14 +20,15 @@
 
 title: TES
 email: tomcombriat@live.fr
-# description: >- Gite agréable à St Valery sur Somme près de la baie
+# description: 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://gitesaintvalery.fr" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
 remote_theme:             "mmistakes/minimal-mistakes@4.20.1"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-include-cache
 
