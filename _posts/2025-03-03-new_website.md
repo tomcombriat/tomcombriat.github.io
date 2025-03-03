@@ -1,5 +1,5 @@
 ---
-title: Test post
+title: New Website
 layout: single
 classes: wide
 
