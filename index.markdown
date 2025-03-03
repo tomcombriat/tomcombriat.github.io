@@ -9,9 +9,10 @@ header:
 
 ---
 
-# Test
+## In construction…
 
-This is a test
+## Synths, saxophones, electronics and more…
 
-And another one
+On this site, I am trying to concatenate the informations concerning my different personnal projects in relation with DIY electronic instruments.
+
 
