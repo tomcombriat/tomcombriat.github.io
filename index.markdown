@@ -5,8 +5,6 @@
 title: TES
 layout: single
 classes: wide
-theme: mint
-skin: mint
 	
 header:
   overlay_image: /media/waveform1.jpg
