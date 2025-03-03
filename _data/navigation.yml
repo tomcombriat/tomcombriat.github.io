@@ -24,9 +24,14 @@ main:
  #   url: /bla/
   - title: "Projects"
     url: /projects/
-
-  - title: "blog"
+  - title: "News/Blog"
     url: /blog/
+  - title: Github
+    url: https://github.com/tomcombriat
+  - title: Contact
+    url: /contact/
+
+
   # - title: "api"
   #   url: /doc/html/
   # - title: "github"
