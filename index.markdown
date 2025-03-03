@@ -7,7 +7,7 @@ layout: single
 classes: wide
 
 header:
-  overlay_image: /media/waveform1.jpg
+  image: /media/waveform1.jpg
 
 
 ---
