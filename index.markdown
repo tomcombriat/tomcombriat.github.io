@@ -7,9 +7,12 @@ layout: single
 classes: wide
 theme: mint
 skin: mint
-sidebar:
-  nav:
-    - docs1
+<!-- sidebar: -->
+<!--   nav: -->
+<!--     - docs1 -->
+	
+header:
+  overlay_image: /media/waveform1.jpg
 
 
 ---

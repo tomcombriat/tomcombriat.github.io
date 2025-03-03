@@ -9,6 +9,9 @@ theme: dark
 sidebar:
   nav:
     - projects
+	
+header:
+  overlay_image: /media/waveform1.jpg
 
 
 ---
