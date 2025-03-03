@@ -11,8 +11,7 @@ skin: mint
 <!--   nav: -->
 <!--     - docs1 -->
 	
-header:
-  overlay_image: /media/waveform1.jpg
+
 
 
 ---
