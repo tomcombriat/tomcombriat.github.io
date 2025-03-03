@@ -4,7 +4,7 @@
 
 title: TES
 layout: single
-classes: wide
+# classes: wide
 	
 header:
   overlay_image: /media/waveform1.jpg
