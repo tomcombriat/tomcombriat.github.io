@@ -10,8 +10,6 @@ sidebar:
   nav:
     - projects
     
-header:
-  overlay_image: /media/waveform3.jpg
 
 
 ---

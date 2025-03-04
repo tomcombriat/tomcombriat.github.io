@@ -1,11 +1,11 @@
 ---
 
 title: TES
-layout: single
-classes: wide
+#layout: single
+#classes: wide
 
-header:
-  overlay_image: /media/waveform2.jpg
+#header:
+#  overlay_image: /media/waveform2.jpg
 
 ---
 

@@ -55,3 +55,26 @@ atom_feed:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+
+
+
+  # _pages
+  - scope:
+      path: ""
+    values:
+      #excerpt: "audio synthesis library for Arduino"
+      #subtitle: "audio synthesis library for Arduino"
+      header:
+        overlay_image: /media/waveform2.jpg
+      layout: single
+      classes: wide
