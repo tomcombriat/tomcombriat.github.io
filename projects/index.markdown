@@ -11,7 +11,7 @@ sidebar:
     - projects
     
 header:
-  overlay_image: /media/waveform1.jpg
+  overlay_image: /media/waveform3.jpg
 
 
 ---
