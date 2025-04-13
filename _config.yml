@@ -22,6 +22,7 @@ title: TES
 email: tomcombriat@live.fr
 description: Nothing here 
 baseurl: "" # the subpath of your site, e.g. /blog
+url: https://tomcombriat.github.io
 # url: "http://gitesaintvalery.fr" # the base hostname & protocol for your site, e.g. http://example.com
 
 
