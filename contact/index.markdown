@@ -4,8 +4,8 @@ title: Contact
 layout: single
 classes: wide
 
-header:
-  overlay_image: /media/waveform1.jpg
+#header:
+ # overlay_image: /media/waveform1.jpg
 
 ---
 
