@@ -10,6 +10,11 @@ theme: dark
 
 # Electronic saxophone
 
-![](media/black_crop.png)
+
+
+
+
+## Gallery
+{% include image-gallery.html folder="media" %}
 
 
