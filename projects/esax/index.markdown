@@ -15,6 +15,6 @@ theme: dark
 
 
 ## Gallery
-{% include image-gallery.html folder="media" %}
+{% include image-gallery.html folder="/projects/esax/media" %}
 
 
