@@ -1,12 +1,9 @@
 ---
-title: Projects
+title: TES - E-Sax
 layout: single
 classes: wide
 theme: dark
-sidebar:
-  nav:
-    - projects
-    
+   
 
 
 ---
