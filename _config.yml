@@ -79,3 +79,4 @@ defaults:
         overlay_image: /media/waveform2.jpg
       layout: single
       classes: wide
+      theme: dark
