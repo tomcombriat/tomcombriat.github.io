@@ -17,6 +17,8 @@ Both of them have two main parameters: `cutoff` and `resonance`, the former defi
 
 ![Source: https://support.spectrasonics.net](https://support.spectrasonics.net/manual/Omnisphere/edit_page/filters/images/res_diagram.png)
 
+<small>Source: https://support.spectrasonics.net</small>
+
 Mozzi's filters are optimized for speed mainly. As such, the correspondance between the parameters' values and the real word (in terms of cutoff frequency and gain in dB) are not very well established. This post tries to bring some light on this matter.
 
 ## Method
