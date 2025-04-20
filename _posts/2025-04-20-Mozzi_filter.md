@@ -36,7 +36,7 @@ This is done for the 16bits version of the filter (`ResonantFilter<BANDPASS, uin
 
 #### `Cutoff` parameter
 
-By varying the `cutoff` value and measuring the peak frequency (see image above, left), one can see that the curve f_{resonance} = f(cutoff) is not really linear, especially on the high end where a small increase in the cutoff value induces a bigger change in the peak frequency. On the broader scale though, things are mostly linear (see inset of the left figure) and definitively not quadratic.
+By varying the `cutoff` value and measuring the peak frequency (see image above, left), one can see that the curve $f_{\mathrm{\texttt{resonance}}} = f(\mathrm{\texttt{cutoff}})$ is not really linear, especially on the high end where a small increase in the cutoff value induces a bigger change in the peak frequency. On the broader scale though, things are mostly linear (see inset of the left figure) and definitively not quadratic.
 
 #### `Resonance` parameter
 
@@ -44,7 +44,7 @@ Things are a bit less simple here. First, one can see that (left subplot), for t
 
 The gain at the peak frequency goes *dramatically* down as the cutoff increases, which is actually mentionned in Mozzi. At very low frequency, the filter can explode for sufficiently high `resonance ` values.
 
-Changing the `resonance` does affect the gain of the filter around the peak frequency, most notably on the higher end of the `resonance` parameter (note that the vertical scale being in dB, it is logarithmic). At `cutoff=10000` an increase of `resonance` from 55000 to 65000 incurs a gain of 20dB! This effect gets less and less pronounced at higher frequency, with all the gain = f(`cutoff`) curves merging together at higher frequencies.
+Changing the `resonance` does affect the gain of the filter around the peak frequency, most notably on the higher end of the `resonance` parameter (note that the vertical scale being in dB, it is logarithmic). At `cutoff=10000` an increase of `resonance` from 55000 to 65000 incurs a gain of 20dB! This effect gets less and less pronounced at higher frequency, with all the $\mathrm{gain = f(\texttt{cutoff})$ curves merging together at higher frequencies.
 
 
 To be continued...

@@ -34,6 +34,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # plugins:
 #   - jekyll-include-cache
 #   - jekyll-feed
+plugins:
+  - jekyll-spaceship
 atom_feed:
   hide: true
 
