@@ -13,6 +13,6 @@ title: TES
 
 ## Synths, saxophones, electronics and more…
 
-On this site, I am trying to concatenate the informations concerning my different personnal projects in relation with DIY electronic instruments.
+Here I am trying to concatenate the informations concerning different personnal projects in relation with DIY electronic instruments, MIDI controllers and others!
 
 
