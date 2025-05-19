@@ -9,7 +9,8 @@ toc: true
 
 ## Presentation
 
-
+The E-Sax is an Electronic Wind Instrument (EWI) based on a real saxophone, providing a feeling as close as possible to the acoustic instrument. 
+It outputs MIDI and as such needs to be connected to a synthesizer for instance a [10k synth](/projects/8_10ksynths).
 
 
 
