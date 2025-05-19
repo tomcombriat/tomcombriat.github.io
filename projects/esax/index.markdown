@@ -9,12 +9,23 @@ toc: true
 
 ## Presentation
 
-The E-Sax is an Electronic Wind Instrument (EWI) based on a real saxophone, providing a feeling as close as possible to the acoustic instrument. 
+The E-Sax is an Electronic Wind Instrument (EWI) based on a real saxophone, providing a feeling as close as possible to the acoustic instrument. This allows saxophone players to immediatly feel at ease with this instrument while being able to create breath-expressive electronic sounds.
 It outputs MIDI and as such needs to be connected to a synthesizer for instance a [10k synth](/projects/8_10ksynths).
 
 
 
-## Features
+## Features/specs
+
+These are the features of the latest version:
+
+ - MIDI output
+ - High resolution breath (12 bits), controlling two MIDI CCs
+ - different keyings, classic, EWI style, …
+ - screen for checking the settings of the instrument
+ - joystick for menu navigation, custom MIDI CC and pitchbend
+ - easily changeable presets via custom keyings
+ - possibility to generate chords and arpegiators via custom keyings
+ - Teensy (soon changed to RP2040) MCU
 
 ## Status
 
@@ -33,6 +44,18 @@ This prompted this project with the motto:
 And to transform a real saxophone into an EWI by keeping all the mechanical parts which give the saxophone its feel and "electrofying" it by adding sensors to it in order create MIDI signals or electronic sounds.
 
 ### Current status
+
+This instrument underwent a lot of different versions. After a quick prototypes based on a PVC tube with switches to prove the concept, it soon moved to using real saxophones as a base, slowly increasing reliability and features with time. This process included a huge variety of MCU, from AVR based boards, to RP2040 via STM32F1 and Teensy.
+
+Because of the specificities of these different boards, and of the different saxophones, the code has become increasingly hard to maintain and to port between the different hardware versions, leading to a lot of similar, but not quite the same, software versions.
+
+For this reason, the code is now undergoing a huge refractoring and rethinking. The main change will be to have as much as possible of it as a [library](https://github.com/tomcombriat/TES_eSax-lib) so that the improvements are automatically propagated to the different hardware versions, with the main code containing only the hardware details of the instruments.
+
+While at it, there might be a few improvements for instance:
+
+ - possibility to have chords and arpegiators at the same time
+ - MIDI clock input/output
+ - ...
 
 
 ## Videos
