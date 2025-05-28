@@ -32,7 +32,7 @@ This is the easiest one as the peak frequency is clearly visible when doing the 
 This is done for the 16bits version of the filter (`ResonantFilter<BANDPASS, uint16_t>`), results should be similar for the 8bits version, with the parameters in the range [0,255] instead of [0,65535].
 
 
-![](/media/Mozzi_filters/BP.svg)
+![](/blog/media/Mozzi_filters/BP.svg)
 
 #### `Cutoff` parameter
 
